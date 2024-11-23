@@ -4,6 +4,10 @@
 
 Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and Intelligence. In that order.
 
+## about me:
+
+am learning neural networks, physics, code writing and how to persevere.
+
 ## slides and codes for presentations i gave:
 
 - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): on neural networks
@@ -21,6 +25,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in the macOS menu bar
 - [giftMacro](https://github.com/star-bits/giftMacro): when you need to smash that button in your phone at superhuman speed
 
-## about me:
+## links:
 
-am learning neural networks, physics, code writing and how to persevere. star-bits@outlook.com.
+- [star-bits@outlook.com](mailto:star-bits@outlook.com)
+- [github.com/star-bits](https://github.com/star-bits)
