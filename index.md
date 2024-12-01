@@ -21,9 +21,9 @@ learning neural networks, physics, code writing and how to persevere.
 
 ## projects:
 
-- [time-keeper](https://github.com/star-bits/time-keeper) (WIP): iOS alarm app with proper timepicker, dismiss and time-until feature (AppStore)
-- [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in the macOS menu bar ([Download](https://github.com/star-bits/ui-time/files/11239541/ui-time.app.zip))
-- [giftMacro](https://github.com/star-bits/giftMacro): when you need to smash that button in your phone at superhuman speed ([YouTube](https://www.youtube.com/watch?v=bjQaods52NY))
+- [time-keeper](https://github.com/star-bits/time-keeper) (WIP): iOS alarm app with proper timepicker, dismiss and time-until feature
+- [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in your macOS menu bar
+- [giftMacro](https://github.com/star-bits/giftMacro): when you need to smash that button in your phone at superhuman speed
 
 ## links:
 
