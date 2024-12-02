@@ -4,10 +4,6 @@
 
 Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and Intelligence. In that order.
 
-## about me:
-
-learning neural networks, physics, code writing and how to persevere.
-
 ## slides and codes for presentations i gave:
 
 - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): on neural networks
