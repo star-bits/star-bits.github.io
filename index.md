@@ -9,7 +9,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): on neural networks
   - with focus on how to calculate the partial derivative, ∂L/∂w, at each layer
 - [nlp.md](https://github.com/star-bits/sogangparrot/blob/main/nlp.md): on natural language processing
-  - topics ranging from word2vec to RLHF, multimodal, and CoT
+  - with topics ranging from word2vec to RLHF, multimodal, and CoT
 - [it.ipynb](https://colab.research.google.com/github/star-bits/sogangparrot/blob/main/it.ipynb): on how to instruct-tune gemma-2-2b-it with lora
 
 ## blog articles:
