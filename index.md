@@ -12,7 +12,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - with topics ranging from word2vec to RLHF, multimodal, and CoT
 - [it.ipynb](https://colab.research.google.com/github/star-bits/sogangparrot/blob/main/it.ipynb): on how to instruct-tune gemma-2-2b-it with lora
 
-## blog articles:
+## blog posts:
 
 - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
 - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
