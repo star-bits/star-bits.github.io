@@ -6,9 +6,8 @@
 - 이 Text Feature들이 K, V가 되어 U-Net에 들어가고, noise predictor를 steer 함.
 - IP-Adapter에선 Text Feature와 함께 Image Feature도 함께 들어감.
 
-$$Z^{\text{new}} = \text{Softmax}\left(\frac{QK^T}{\sqrt{d}}\right)V + \text{Softmax}\left(\frac{Q(K')^T}{\sqrt{d}}\right)V'$$
-$$\text{where } Q = ZW_q, \quad K = c_t W_k, \quad V = c_t W_v, \quad K' = c_i W_k', \quad V' = c_i W_v'$$
-$$\text{where } Z = \text{Query Features}, \quad c_t = \text{Text Features}, \quad c_i = \text{Image Features}$$
+![eqn](https://github.com/user-attachments/assets/6c8da1dd-f301-4132-8114-49bb1c74583c)
+
 
 ![fig2](https://github.com/star-bits/blog/assets/93939472/89793dad-ad5e-42c0-95a9-09b0f7daa61f)
 
