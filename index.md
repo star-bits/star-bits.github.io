@@ -14,8 +14,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 
 ## blog posts:
 
-- [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
-- [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
+- [thought-token.md](posts/thought-token.md)
 
 ## side projects:
 
