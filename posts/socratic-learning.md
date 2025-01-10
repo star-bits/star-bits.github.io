@@ -25,8 +25,8 @@
 
 ## scale
 - RL works at scale.
-- scaling up compute sufficiently, even relatively straightforward RL algorithms can solve problems previously thought out of reach
-- betting on scaling up computation (as opposed to building in human knowledge) has consistently paid off in the history of AI
+- scaling up compute sufficiently, even relatively straightforward RL algorithms can solve problems previously thought out of reach.
+- betting on scaling up computation (as opposed to building in human knowledge) has consistently paid off in the history of AI.
 
 ## 어떻게 구현할 것인가 - Language Game
 - Wittgenstein's notion of language games. 언어를 입출력으로 사용하는 agent들 간의 interaction. 그리고 그 상호작용에 대한 scoring function.
