@@ -15,6 +15,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 ## blog posts:
 
 - [thought-token](posts/thought-token.md)
+- [concept-model](posts/concept-model.md)
 
 ## side projects:
 
