@@ -10,7 +10,7 @@
 ![fig1](https://github.com/user-attachments/assets/9a6706dc-e5f0-4c66-998f-c441687d72c3)
 
 ## 1) 디코더로 Next Sentence Prediction
-- MSE loss를 최소화하는 방법
+- MSE loss를 최소화하는 방법.
 - 그러나 embedding space에서 MSE를 직접 최소화하는 것은 좋은 결과를 내지 못함.
 
 ## 2) Diffusion
