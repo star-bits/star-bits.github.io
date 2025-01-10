@@ -9,10 +9,10 @@
 - patch를 이용해 최종 projection layer dimension을 늘리지 않고도 더 큰 사이즈의 vocab을 이용할 수 있음.
 
 ![fig2](https://github.com/user-attachments/assets/018fbfbc-62eb-438e-a1e1-36219e16d5c0)
-- 엔트로피로 patch boundary를 구별하는 두 가지 방법: global entropy threshold, relative entropy threshold
+- 엔트로피로 patch boundary를 구별하는 두 가지 방법: global entropy threshold, relative entropy threshold.
 
 ![fig3fig4](https://github.com/user-attachments/assets/051d8be8-803e-4092-bd0d-4f00ed166092)
-- BPE와 Entropy 비교
+- BPE와 Entropy 비교.
 
 ## entropy model
 - 별도의 byte-level language model을 full BLT model과 동일한 데이터 분포상에서 entropy 추정 학습 수행.
