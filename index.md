@@ -14,11 +14,12 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 
 ## blog posts:
 
-- [thought-token](posts/thought-token.md)
-- [concept-model](posts/concept-model.md)
-- [entropy-patch](posts/entropy-patch.md)
-- [socratic-learning](posts/socratic-learning.md)
-- [latent-diffusion](posts/latent-diffusion.md)
+- [thought-token](posts/thought-token.md): (token-level) latent space에서 thought token으로 CoT 하기
+- [concept-model](posts/concept-model.md): sentence-level latent space에서 diffusion으로 reasoning 하기
+- [entropy-patch](posts/entropy-patch.md): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기
+- [socratic-learning](posts/socratic-learning.md): language space에서의 pure recursive self-improvement
+- [latent-diffusion](posts/latent-diffusion.md): latent space에서 noise predictor를 steering 하기
+- [decoupled-cross](posts/decoupled-cross.md): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
 
 ## side projects:
 
