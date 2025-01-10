@@ -1,4 +1,7 @@
- # Latent Thought-Token CoT
+---
+title: Latent Thought-Token CoT
+---
+# Latent Thought-Token CoT
 - [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769)
 - Replication attempts:
   - [casper-hansen/OpenCoconut](https://github.com/casper-hansen/OpenCoconut)
