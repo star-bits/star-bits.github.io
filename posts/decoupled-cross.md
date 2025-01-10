@@ -6,8 +6,7 @@
 - 이 Text Feature들이 K, V가 되어 U-Net에 들어가고, noise predictor를 steer 함.
 - IP-Adapter에선 Text Feature와 함께 Image Feature도 함께 들어감.
 
-![eqn](https://github.com/user-attachments/assets/6c8da1dd-f301-4132-8114-49bb1c74583c)
-
+![eqn1](https://github.com/user-attachments/assets/0e1b511a-417a-4d4a-b44c-68059fc2a02f)
 
 ![fig2](https://github.com/star-bits/blog/assets/93939472/89793dad-ad5e-42c0-95a9-09b0f7daa61f)
 
