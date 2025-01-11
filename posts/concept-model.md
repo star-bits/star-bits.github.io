@@ -28,7 +28,7 @@
 ## Related Works
 - Marfurt and Hendersen (2021) and Cornille et al. (2024): next sentence embedding prediction in a fully generative setting. sentence-level connection을 token-level connection을 보완하는 데에 사용함.
 - PLANNER architecture (Zhang et al., 2023): 문단 단위로 VAE와 diffusion 모델을 사용해 latent autoencoder representation을 예측함.
-- Lovalace et al. (2024): 텍스트의 sematinc proposal을 diffusion 모델을 이용해 다음 proposal을 예측하고, decoder-only model에 적용함.
+- Lovelace et al. (2024): 텍스트의 sematinc proposal을 diffusion 모델을 이용해 다음 proposal을 예측하고, decoder-only model에 적용함.
 - TEncDM model (Shabablin et al., 2024): contextual token embedding space에서 diffusion을 실행하고 non-autoregressive하게 디코딩 함.
 - Semformer (Yin et al., 2024): planning token을 추가해 미래 정보에 대한 예측을 하도록 학습.
 - Ye et al. (2024): multi-step planning에 더 적합하도록 모델에 autoregressive generation이 아니라 discrete diffusion을 적용함.
