@@ -16,5 +16,5 @@
 - 별거 없는 내용인데 자기들 말로는 성능 향상이 크다고 하고, 뉴립스 스포트라이트도 가고 뭐 잘 되나봄.
 - 하긴 이렇게 LLM의 성능을 최대한 끌어내는 게 대부분의 use case의 효용에는 더 도움이 될 지도.
 - 인위적으로 reasoning task를 6개만으로 분류하는게 좀 걸리기는 하지만 어차피 어지간해서는 LLM을 쓰는 이유도 거기서 거기더라.
-- 고객 상담용 챗봇과 같이 narrow한 task의 경우 프롬프트를 잘 작성하면 성능과 만족도에 향상이 있을 것으로 기대됨.
+- 고객 상담용 챗봇과 같이 narrow한 task의 경우 thought template를 잘 작성하면 성능과 만족도에 향상이 있을 것으로 기대됨.
 - superhuman intelligence? 야 너는 average data labeler의 intelligence라도 갖춰라 is the new 야 너는 나무위키라도 좀 읽어라.
