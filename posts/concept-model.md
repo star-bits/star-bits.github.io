@@ -22,7 +22,7 @@
 ## 3) Space Quantization
 - Residual Vector Quantization을 통해 SONAR representation을 discrete한 unit들로 분할함.
 - continuous한 input embedding들을 학습한 codebook의 nearest entry에 넣음.
-- RVQ가 interative하게 residual error를 여러 coebook에 걸쳐 quantize 함.
+- RVQ가 interative하게 residual error를 여러 codebook에 걸쳐 quantize 함.
 - SONAR space는 연속적이지만 text modality는 discrete하기 때문에 문장들 역시 continuous distribution이라기 보다 cloud of points에 가깝다.
 
 ## Related Works
