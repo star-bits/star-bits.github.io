@@ -18,6 +18,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [socratic-learning](posts/socratic-learning.html): language space에서의 pure recursive self-improvement
 - [latent-diffusion](posts/latent-diffusion.html): latent space에서 noise predictor를 steering 하기
 - [decoupled-cross](posts/decoupled-cross.html): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
+- [thought-templates](posts/thought-templates.html): task에 적합한 reasoning이 적혀 있는 thought template 적용하기
 
 ## side projects:
 - [time-keeper](https://github.com/star-bits/time-keeper): iOS alarm app with proper timepicker, dismiss and time-until feature
