@@ -1,6 +1,6 @@
 # Latent Thought-Token CoT
 - [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769)
-- Replication attempts:
+- replication attempts:
   - [casper-hansen/OpenCoconut](https://github.com/casper-hansen/OpenCoconut)
   - [vicksEmmanuel/latent-gemma](https://github.com/vicksEmmanuel/latent-gemma)
   - [lucidrains/coconut-pytorch](https://github.com/lucidrains/coconut-pytorch)
