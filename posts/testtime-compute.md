@@ -10,7 +10,7 @@
   - output level:
     - multiple candidates를 sampling 하는 방법. learned verifier 또는 (process-based) reward model이 필요함. best-of-N, beam search, lookahead search를 적용할 수 있음.
 - 프롬프트의 어려운 정도에 따라, 쉬운 문제의 경우 모델이 항상 정답에 근접한 답을 내기 때문에 revision의 반복으로 정답을 낼 수 있고, 어려운 문제의 경우 search가 필요하기 때문에 하나의 답을 revision하는 것만으로는 정답을 내기 어려움. 따라서 difficulty level에 따라 adaptive하게 optimal test-time computation strategy를 사용함.
-- 여기서는 revision과 search를 사용하고, search 중에서는 beam search를 사용함. [MATH 벤치마크](https://arxiv.org/pdf/2103.03874)와 PaLM-2 모델을 사용함. PRM에는 PRM800k 데이터셋을 사용하고, GPT-4로 생성된 데이터셋이기 때문에 [Wang et al.](https://arxiv.org/pdf/2312.08935)에서의 방법을 이용해 PaLM-2에 맞도록 distribution shift을 적용했다고 함. appendix D 참고.
+- 여기서는 revision과 search를 사용하고, search 중에서는 beam search를 사용함. [MATH 벤치마크](https://arxiv.org/pdf/2103.03874)와 PaLM-2 모델을 사용함. PRM에는 PRM800k 데이터셋을 사용하고, GPT-4로 생성된 데이터셋이기 때문에 [Wang et al.](https://arxiv.org/pdf/2312.08935)에서의 방법을 이용해 PaLM-2에 맞도록 distribution shift을 적용했다고 함. Appendix D 참고.
 - 이렇게 test-time compute에 들어가는 FLOPs에 대해 생각해보면, 작은 모델을 pretrain하고 test-time에서 답변을 똑똑하게 만드느냐, 큰 모델을 pretrain해서 답변을 똑똑하게 만드느냐에 따른 트레이드오프 관계가 성립함.
 
 ![fig9](https://github.com/user-attachments/assets/56f1d2f4-6405-4695-8aae-135ef6059366)
