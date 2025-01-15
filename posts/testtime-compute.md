@@ -4,7 +4,7 @@
 ## 같은 FLOPs에서 test-time compute와 pretraining cost의 tradeoff 관계
 - test-time compute의 방법들:
   - input level:
-    - input prompt를 augment해서 인풋 토큰을 추가해주는 방법 (CoT를 말하는 듯).
+    - input prompt를 augment해서 인풋 토큰을 추가해주는 방법 (few-shot, "think step-by-step").
     - 인풋 토큰을 추가하지 않고 RL-inspired finetuning method로 improved proposal distribution을 만들어 내는 방법 (STaR, ReST).
     - iteratively asking the model to revise its response해서 proposal distribution을 improve하는 self-critique 방법.
   - output level:
