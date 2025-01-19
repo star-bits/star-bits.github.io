@@ -19,7 +19,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [thought-templates](posts/thought-templates.html): 해당 reasoning task에 적합한 thought template으로 RAG 하기 (BoT)
 - [testtime-compute](posts/testtime-compute.html): 같은 FLOPs에서 test-time compute와 pretraining cost의 tradeoff 관계
 - [selftaught-reasoner](posts/selftaught-reasoner.html): reasoning trace 데이터셋의 self-feeding amplification loop (STaR)
-- [rstar-math](posts/start-math.html): PRM for code-augmented verified reasoning trajectories (rStar-Math)
+- [rstar-math](posts/rstar-math.html): PRM for code-augmented verified reasoning trajectories (rStar-Math)
 - [latent-diffusion](posts/latent-diffusion.html): latent space에서 noise predictor를 steering 하기
 - [decoupled-cross](posts/decoupled-cross.html): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
 
