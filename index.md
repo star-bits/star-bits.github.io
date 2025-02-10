@@ -1,8 +1,6 @@
 # star-bits
 
-⭐ Stars → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
-
-Initial singularity, light elements, stars, heavier elements, Earth, humans, Giants, and Intelligence. In that order.
+Initial singularity → Light elements → ⭐ Stars → Heavier elements → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
 
 ## slides and code from presentations i've given:
 - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): on neural networks
