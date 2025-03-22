@@ -22,6 +22,6 @@ Initial singularity → Light elements → ⭐ Stars → Heavier elements → �
 - [decoupled-cross](posts/decoupled-cross.html): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
 
 ## side projects:
-- [time-keeper](https://github.com/star-bits/time-keeper): iOS alarm app with proper timepicker, dismiss and time-until feature
 - [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in your macOS menu bar
+- [prettyURL](https://github.com/star-bits/prettyURL): click the extension icon to copy human readable URL
 - [giftMacro](https://github.com/star-bits/giftMacro): when you need to smash that button in your phone at superhuman speed
