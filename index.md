@@ -3,9 +3,10 @@
 <style>
 .portrait{
   float:right;
-  width:33%;
-  max-width:10px;
-  aspect-ratio:1/1;
+  width:clamp(50px,33%,150px); 
+  aspect-ratio:1/1;            
+  height:auto;                 
+  object-fit:cover;
 }
 </style>
 <img src="assets/portrait.jpg" alt="My photo" class="portrait">
