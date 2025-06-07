@@ -1,16 +1,16 @@
 # star-bits
 
 <style>
-.portrait{
+.headshot{
   float:right;
   width:clamp(100px,33%,250px);  /*  w = min(max(100,0.33 W),250)  */
   margin:0 0 1em 1em;  /* top right bottom left */
-  aspect-ratio:1/1;            
-  height:auto;                 
+  aspect-ratio:1/1;  /* 9/16 */
+  height:auto;
   object-fit:cover;
 }
 </style>
-<img src="assets/portrait.jpg" alt="My photo" class="portrait">
+<img src="assets/portrait.jpg" alt="headshot" class="headshot">
 
 - Initial singularity → Light elements → ⭐ Stars → Heavier elements → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
 
