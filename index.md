@@ -3,7 +3,7 @@
 <style>
 .portrait{
   float:right;
-  width:clamp(50px,33%,200px); 
+  width:clamp(100px,33%,250px); 
   aspect-ratio:1/1;            
   height:auto;                 
   object-fit:cover;
