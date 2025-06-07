@@ -4,7 +4,7 @@
 .portrait{
   float:right;
   width:33%;
-  max-width:180px;
+  max-width:150px;
   aspect-ratio:1/1;
 }
 </style>
