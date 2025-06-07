@@ -2,10 +2,10 @@
 
 <style>
 .portrait{
-  float:right;        /* stay on the right at any width */
-  width:25%;          /* scales with the text column    */
-  max-width:180px;    /* but never larger than 180 px   */
-  aspect-ratio:1/1;   /* square (1 : 1)                 */
+  float:right;
+  width:33%;
+  max-width:180px;
+  aspect-ratio:1/1;
 }
 </style>
 <img src="assets/portrait.jpg" alt="My photo" class="portrait">
