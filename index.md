@@ -1,7 +1,5 @@
 # star-bits
 
-Initial singularity → Light elements → ⭐ Stars → Heavier elements → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
-
 <style>
 .portrait{
   float:right;        /* stay on the right at any width */
@@ -11,6 +9,8 @@ Initial singularity → Light elements → ⭐ Stars → Heavier elements → �
 }
 </style>
 <img src="assets/portrait.jpg" alt="My photo" class="portrait">
+
+Initial singularity → Light elements → ⭐ Stars → Heavier elements → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
 
 ## slides and code from presentations i've given:
 - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): on neural networks
