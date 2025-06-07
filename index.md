@@ -2,6 +2,16 @@
 
 Initial singularity → Light elements → ⭐ Stars → Heavier elements → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
 
+<style>
+.portrait{
+  float:right;        /* stay on the right at any width */
+  width:25%;          /* scales with the text column    */
+  max-width:180px;    /* but never larger than 180 px   */
+  aspect-ratio:1/1;   /* square (1 : 1)                 */
+}
+</style>
+<img src="assets/portrait.jpg" alt="My photo" class="portrait">
+
 ## slides and code from presentations i've given:
 - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): on neural networks
   - with focus on how to calculate the partial derivative, ∂L/∂w, at each layer
