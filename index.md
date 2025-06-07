@@ -10,7 +10,7 @@
 </style>
 <img src="assets/portrait.jpg" alt="My photo" class="portrait">
 
-Initial singularity → Light elements → ⭐ Stars → Heavier elements → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
+- Initial singularity → Light elements → ⭐ Stars → Heavier elements → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
 
 ## slides and code from presentations i've given:
 - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): on neural networks
